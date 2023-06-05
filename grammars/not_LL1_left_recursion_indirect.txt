@@ -1,0 +1,6 @@
+A -> B + id
+B -> C - id
+C -> A * id
+C -> ""
+C -> id
+done

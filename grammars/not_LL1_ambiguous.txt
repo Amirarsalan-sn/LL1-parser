@@ -1,0 +1,7 @@
+E -> T * T
+E -> T / T
+T -> F + F
+T -> F - F
+F -> ( E )
+F -> id
+done

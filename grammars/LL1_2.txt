@@ -1,0 +1,8 @@
+S -> noun S1
+S1 -> "
+S1 -> and noun
+S1 -> , S2
+S2 -> noun , S3
+S3 -> noun , S3 
+S3 -> and noun
+done

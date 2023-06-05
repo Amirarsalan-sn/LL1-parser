@@ -1,0 +1,6 @@
+S -> noun
+S -> noun and noun
+S -> M , noun , and noun
+M -> M , noun
+M -> noun
+done
